@@ -3,7 +3,7 @@
 	"slug" : "personal-portfolio-react",
 	"status": "published",
 	"translations": ["es", "en"],
-	"preview": "https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/master/preview.gif?raw=true",
+	"preview": "https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/main/preview.gif?raw=true",
 	"duration" : 10,
 	"difficulty": "junior",
 	"technologies": ["html", "css", "bootstrap", "react"],	
