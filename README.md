@@ -25,9 +25,19 @@ The following
 
 ## Where do I start?
 
+### Research
+
 Let's start by doing some research, what portfolio do you like the most? Here is a few examples: 
 
 | Link                            | Description     | Why we like it                                                                        |
 | ------------------------------- | --------------- | ------------------------------------------------------------------------------------- |
 | https://www.fernandofunez.com/  | Fernando Funez  | Very simple and straighforward approach, it shows personality and its easy to browse. |
 
+### Find your template
+
+You can look on the internet for free HTML/CSS templates and you can adapt them to react very easy as long as they don't contain the following:
+
+1. Avoid complicated effects using Javascript like Parallax or animations.
+2. Make sure they use little or no Javascript, the javascript part will be a lot harder to migrate to React, you can include animations later using React.js animation libraries like [React Spring](https://www.react-spring.io/docs/hooks/examples) or [Framer Motion later](https://www.framer.com/motion/).
+
+You
