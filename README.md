@@ -26,6 +26,8 @@ The following:
 
 - Contact section: You social media, email, and you can also include a small form using a service like Netlify, Foxyform, etc.
 
+![Fernando Funez Personal Portfolio](https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/main/fernando-funez.png?raw=true)
+
 ## Where do I start?
 
 ### Research
