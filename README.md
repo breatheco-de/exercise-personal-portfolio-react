@@ -1,4 +1,4 @@
-# Exercise Personal Portfolio React
+# Personal Portfolio React
 
 Having a portfolio or personal website is an excellent tool for personal branding and your professional career. Still, it has a special meaning for software developers because it allows us to share your most valuable work in an organized matter.
 
