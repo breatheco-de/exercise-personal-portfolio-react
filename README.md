@@ -4,7 +4,7 @@ Having a portfolio or personal website is an excellent tool for personal brandin
 
 ## Objetive
 
-A personal portfolio is like a resume (CV) on steroids; you can make it as interactive/cool/beautiful as you want, but don't lose focus on the main objective: Showcasing yourself, your professional accomplishments, and most important projects.
+A personal portfolio is like a resume (CV) on steroids; you can make it as interactive/cool/beautiful as you want, but don't loose focus on the main objective: Showcasing yourself, your professional accomplishments, and most important projects.
 
 > Quality is more important than quantity, especially since you are starting a new career and you don't have many projects to showcase.
 
@@ -16,11 +16,14 @@ Don't worry about not having projects; you can start with one, and you'll grow f
 
 ## Typical structure
 
-The following
+The following:
 
 - Small bio about yourself: Find a short -not boring- way to talk about yourself: What makes you "you"? Any hobbies or passions? Try not to write more than 250 characters here.
-- Skills: Software development is a technical skillset; you need to specify your specialty areas like React, Javascript, HTML/CSS, Bootstrap, Python, Flask, Databases, etc. It's a good idea to specify how "expert" you feel on each of them (like a progress bar or a number from one to ten).
+
+- Skills: Software development is a technical skillset; you need to specify your specialty areas like React, Javascript, HTML/CSS, Bootstrap, Python, Flask, Databases, etc. It's a good idea to specify your level of expertise on each of them (like a progress bar or a number from one to ten).
+
 - Projects: Each project must have a picture, a small description, a link to the live working website, and a link to the GitHub profile.
+
 - Contact section: You social media, email, and you can also include a small form using a service like Netlify, Foxyform, etc.
 
 ## Where do I start?
@@ -61,4 +64,4 @@ Here you have some websites with free templates to download, but nothing is bett
 
 ## Feeling frustrated?
 
-Ask for help! This is your first porflio and it will not be perfect, but it will push you in the right direction :)
+Ask for help! This is your first porfolio and it will not be perfect, but it will push you in the right direction :)
