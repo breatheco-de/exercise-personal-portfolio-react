@@ -8,13 +8,13 @@ A personal portfolio is like a resume (CV) on steroids; you can make it as inter
 
 > Quality is more important than quantity, especially since you are starting a new career and you don't have many projects to showcase.
 
-## But you don't have any projects
+### But you don't have any projects
 
 A portfolio is a live website; you can change it any time, you have to plan for the future. 
 
 Don't worry about not having projects; you can start with one, and you'll grow from there. Everyone started from scratch! In a matter of months, you will have a couple of projects.
 
-## Typical structure
+### 🗂 Typical structure
 
 The following is the typical structure for a portfolio, but of course you can add other sections that you like:
 
@@ -30,7 +30,7 @@ The following is the typical structure for a portfolio, but of course you can ad
 
 ## Where do I start?
 
-### Research
+### 👩‍🔬 Research
 
 Let's start by doing some research; what portfolio do you like the most? Here are a few examples: 
 
@@ -41,7 +41,7 @@ Let's start by doing some research; what portfolio do you like the most? Here ar
 | https://mattfarley.ca/          | Matt Farley       | Organized and clean, recruiters will love it                                          |
 
 
-### Find your template
+### 🕵🏽‍♀️ Find your template
 
 You can look on the internet for free HTML/CSS templates, and you can adapt them to react very easy as long as they don't contain the following:
 
@@ -55,14 +55,24 @@ Here you have some websites with free templates to download, but nothing is bett
 - [https://templated.co/](https://templated.co/).
 - [https://rigorousthemes.com](https://rigorousthemes.com/blog/best-software-developer-portfolio-template-free-paid/).
 
-### Start coding
+💡 Note: If you can't find anything you like you can start with any of these great templates:
+
+- [Freelancer by Start Bootstrap](https://startbootstrap.com/theme/freelancer).
+- [Agency by Start Bootstrap](https://startbootstrap.com/theme/agency)
+
+Or you can find [more StartBootstrap templates here](https://startbootstrap.com/themes?showAngular=false&showVue=false&showPro=false).
+
+## 📝 Start coding
 
 1. Start by running your template in plain HTML.
 2. Remove anything you don't like about it.
 3. Visualize how your projects, bio and information will look inside of it, you may have to change some things, that is ok.
-4. Create a new empty react project and start migrating little by little, one piece at a time.
-5. Make sure the CSS stylesheet is working.
-5. Make sure to rename all the `class=` to `className=`, self close all the `<img>` tags and replace also the other HTML attributes that react doesn't like, you need a lot of patience for this, but it is possible.
+4. Create a new empty React.js project and start migrating little by little, start by connecting the stylesheet and then grab each HTML Piece one by one:
+  4.1 The navbar
+  4.2 The footer
+  4.3 Jumbotron
+5. Make sure the CSS stylesheet it's properly connected and working.
+6. Make sure to rename all the `class=` properties to `className=`, self close all the `<img />` tags and replace also the other HTML attributes that react doesn't like like `hmltFor` or any other that you see on the inspector console as an error, you need a lot of patience for this, but it is possible if you do it little by little.
 
 ## Feeling frustrated?
 
