@@ -1,0 +1,11 @@
+{
+	"title" : "Personal Portfolio with React",
+	"slug" : "personal-portfolio-react",
+	"status": "published",
+	"translations": ["es", "en"],
+	"preview": "https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/master/preview.gif?raw=true",
+	"duration" : 10,
+	"difficulty": "junior",
+	"technologies": ["html", "css", "bootstrap", "react"],	
+	"description" : "Steps to create your first personal porfolio using React.js"
+}
