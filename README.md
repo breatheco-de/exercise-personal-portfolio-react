@@ -1,5 +1,7 @@
 # Personal Portfolio React
 
+![Personal Porfolio Roman](https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/main/preview.gif)
+
 Having a portfolio or personal website is an excellent tool for personal branding and your professional career. Still, it has a special meaning for software developers because it allows us to share your most valuable work in an organized matter.
 
 ## Objetive
