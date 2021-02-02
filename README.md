@@ -16,7 +16,7 @@ Don't worry about not having projects; you can start with one, and you'll grow f
 
 ## Typical structure
 
-The following:
+The following is the typical structure for a portfolio, but of course you can add other sections that you like:
 
 - Small bio about yourself: Find a short -not boring- way to talk about yourself: What makes you "you"? Any hobbies or passions? Try not to write more than 250 characters here.
 
