@@ -64,20 +64,9 @@ Here you have some websites with free templates to download, but nothing is bett
 
 Or you can find [more StartBootstrap templates here](https://startbootstrap.com/themes?showAngular=false&showVue=false&showPro=false).
 
-## 🌱  How to start this project
-
-Do not clone this repository.
-
-The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or opening it using gitpod.
-
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
-b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/react-hello`.
-
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
-
 ## 📝 Start coding
 
-1. Start by running your template in plain HTML.
+1. Start by opening your chosen template locally or in gitpod.
 2. Remove anything you don't like about it.
 3. Visualize how your projects, bio and information will look inside of it, you may have to change some things, that is ok.
 4. Create a new empty React.js project and start migrating little by little, start by connecting the stylesheet and then grab each HTML Piece one by one:
