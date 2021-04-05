@@ -4,7 +4,7 @@
 
 Having a portfolio or personal website is an excellent tool for personal branding and your professional career. Still, it has a special meaning for software developers because it allows us to share your most valuable work in an organized matter.
 
-## Objetive
+## Objective
 
 A personal portfolio is like a resume (CV) on steroids; you can make it as interactive/cool/beautiful as you want, but don't loose focus on the main objective: Showcasing yourself, your professional accomplishments, and most important projects.
 
