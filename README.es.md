@@ -1,6 +1,6 @@
 # Portafolio Personal en React
 
-[Portafolio Personal Roman](https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/main/preview.gif)
+![Portafolio Personal Roman](https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/main/preview.gif)
 
 Tener un portafolio o sitio web personal es una excelente herramienta para tu marca personal y tu carrera profesional. Sin embargo, tiene un significado especial para los desarrolladores de software, ya que nos permite compartir nuestro trabajo más valioso de una manera organizada.
 
@@ -64,6 +64,18 @@ Aquí tienes algunas webs con plantillas gratuitas para descargar, pero nada mej
 - [Agencia por Start Bootstrap](https://startbootstrap.com/theme/agency)
 
 O puedes encontrar [más plantillas de StartBootstrap aquí](https://startbootstrap.com/themes?showAngular=false&showVue=false&showPro=false).
+
+## 🌱  Cómo iniciar este proyecto
+
+No clones este repositorio.
+
+El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## 📝 Empieza a programar
 
