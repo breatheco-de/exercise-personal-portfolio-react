@@ -43,7 +43,7 @@ Let's start by doing some research; what portfolio do you like the most? Here ar
 | https://mattfarley.ca/          | Matt Farley       | Organized and clean, recruiters will love it                                          |
 
 
-### 🕵🏽‍♀️ Find your template
+### ❔ Find your template
 
 You can look on the internet for free HTML/CSS templates, and you can adapt them to react very easy as long as they don't contain the following:
 
