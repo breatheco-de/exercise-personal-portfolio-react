@@ -16,7 +16,7 @@ A portfolio is a live website; you can change it any time, you have to plan for 
 
 Don't worry about not having projects; you can start with one, and you'll grow from there. Everyone started from scratch! In a matter of months, you will have a couple of projects.
 
-### 🗂 Typical structure
+### Typical structure
 
 The following is the typical structure for a portfolio, but of course you can add other sections that you like:
 
