@@ -44,7 +44,7 @@ Empecemos por investigar un poco; ¿qué portafolio te gusta más? Aquí hay alg
 | https://mattfarley.ca/ | Matt Farley | Organizado y limpio, a los reclutadores les encantará |#.
 
 
-### 🕵🏽♀️ Encuentra tu plantilla
+### ❔ Encuentra tu plantilla
 
 Puedes buscar en internet plantillas HTML/CSS gratuitas, y puedes adaptarlas para que reaccionen muy fácilmente siempre que no contengan lo siguiente:
 
@@ -64,18 +64,6 @@ Aquí tienes algunas webs con plantillas gratuitas para descargar, pero nada mej
 - [Agencia por Start Bootstrap](https://startbootstrap.com/theme/agency)
 
 O puedes encontrar [más plantillas de StartBootstrap aquí](https://startbootstrap.com/themes?showAngular=false&showVue=false&showPro=false).
-
-## 🌱  Cómo iniciar este proyecto
-
-No clones este repositorio.
-
-El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
-
-a) Si usas Gitpod puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
-
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
-
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
 ## 📝 Empieza a programar
 
