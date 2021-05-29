@@ -49,7 +49,7 @@ Empecemos por investigar un poco; ¿qué portafolio te gusta más? Aquí hay alg
 Puedes buscar en internet plantillas HTML/CSS gratuitas, y puedes adaptarlas para que reaccionen muy fácilmente siempre que no contengan lo siguiente:
 
 1. Evita los efectos complicados usando Javascript como **Parallax o animaciones**.
-2. Asegúrate de que usen proceso o nada de Javascript; la parte de javascript será mucho más difícil de migrar a React; puedes incluir animaciones más adelante usando librerías de animación React.js como [React Spring](https://www.react-spring.io/docs/hooks/examples) o [Framer Motion later](https://www.framer.com/motion/).
+2. Asegúrate de usar poco o nada de Javascript; la parte de javascript será mucho más difícil de migrar a React; puedes incluir animaciones más adelante usando librerías de animación React.js como [React Spring](https://www.react-spring.io/docs/hooks/examples) o [Framer Motion later](https://www.framer.com/motion/).
 3. Intenta elegir una plantilla que **se haya construido con Bootstrap**, eso acelerará mucho tu proceso.
 4. Los scrollers de una página son siempre una gran idea para empezar.
 
