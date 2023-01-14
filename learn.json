@@ -12,8 +12,6 @@
     "difficulty": "easy",
     "projectType": "project",
     "technologies": [
-        "html",
-        "css",
         "bootstrap",
         "react"
     ],
