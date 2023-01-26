@@ -1,4 +1,6 @@
+<!--hide-->
 # Portafolio Personal en React
+<!--endhide-->
 
 ![Portafolio Personal Roman](https://github.com/breatheco-de/exercise-personal-portfolio-react/blob/main/preview.gif)
 
@@ -20,7 +22,7 @@ No te preocupes si no tienes proyectos; puedes empezar con uno y a partir de ah�
 
 La siguiente es la estructura típica de un portafolio, pero por supuesto puedes añadir otras secciones que te gusten:
 
-- Una pequeña biografía sobre ti: Busca una forma breve -no aburrida- de hablar de ti mismo: ¿Qué te hace ser "tú"? ¿Alguna hobby o pasión? Intenta no escribir más de 250 caracteres en esta sección.
+- Una pequeña biografía sobre ti: Busca una forma breve -no aburrida- de hablar de ti mismo: ¿Qué te hace ser "tú"? ¿Algún hobby o pasión? Intenta no escribir más de 250 caracteres en esta sección.
 
 - Habilidades: El desarrollo de software es un conjunto de habilidades técnicas; debes especificar tus áreas de especialidad como React, Javascript, HTML/CSS, Bootstrap, Python, Flask, Bases de datos, etc. Es una buena idea especificar tu nivel de experiencia en cada una de ellas (como una barra de progreso o un número del uno al diez).
 
